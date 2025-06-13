@@ -1,5 +1,5 @@
 
-public class Oficial extends Vehiculo{
+public class Oficial extends VehiculoGeneral{
 	
 
 	public Oficial(String matricula) {
@@ -7,6 +7,8 @@ public class Oficial extends Vehiculo{
 		
 	}
 
-
+	public double calcularPrecio() {
+        return 0.0;
+    }
 
 }
