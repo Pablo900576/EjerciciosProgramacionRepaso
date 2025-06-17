@@ -1,3 +1,4 @@
+package ej1;
 
 public abstract class VehiculoGeneral implements Vehiculo{
 	 protected String matricula;

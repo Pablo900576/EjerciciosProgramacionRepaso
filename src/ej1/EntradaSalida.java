@@ -1,3 +1,4 @@
+package ej1;
 import java.time.Duration;
 import java.time.LocalDateTime;
 

@@ -1,3 +1,4 @@
+package ej1;
 
 public interface Vehiculo {
     String getMatricula();

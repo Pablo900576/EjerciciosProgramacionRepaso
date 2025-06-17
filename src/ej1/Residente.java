@@ -1,3 +1,4 @@
+package ej1;
 
 public class Residente extends VehiculoGeneral{
 	String tarjeta;
